@@ -12,4 +12,4 @@ Una vez creada la base de datos, hemos automatizado el envío de emails diario d
 El formulario de contactos es el siguiente: https://forms.gle/4Y12YwFqNfnprr2B9
 
 ### 4. Dashboard
-Para concluir, hemos generado un dashboard para mostrar visualmente el repositorio que hemos conseguido generar, así como la tips más importantes del mismo.
+Para concluir, hemos generado un dashboard para mostrar visualmente el repositorio que hemos conseguido generar, así como los "tips" más importantes del mismo.
